@@ -1,0 +1,401 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+  margin: 0;
+  
+}
+.v1_266 {
+  width: 100%;
+  height: 1222px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_267 {
+  width: 100%;
+  height: 34px;
+  background: #F8EDE3;
+  opacity: 1;
+  position: absolute;
+  top: 1190px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_268 {
+  width: 322px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1196px;
+  left: 559px;
+  font-family: Lobster;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_269 {
+  width: 268px;
+  height: 400px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 256px;
+  left: 761px;
+  overflow: hidden;
+}
+.v2_269 {
+  width: 232px;
+  height: 345px;
+  background: url("Fantasi2.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 284px;
+  left: 780px;
+  overflow: hidden;
+
+}
+.v1_270 {
+  width: 268px;
+  height: 400px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 733px;
+  left: 763px;
+  overflow: hidden;
+}
+.v2_270 {
+  width: 232px;
+  height: 345px;
+  background: url("fantasi\ \(3\).jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 760px;
+  left: 780px;
+  overflow: hidden;
+}
+.v1_271 {
+  width: 267px;
+  height: 400px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 256px;
+  left: 1115px;
+  overflow: hidden;
+}
+.v2_271 {
+  width: 232px;
+  height: 345px;
+  background: url("Fantasi3.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 284px;
+  left: 1133px;
+  overflow: hidden;
+}
+.v1_272 {
+  width: 267px;
+  height: 400px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 730px;
+  left: 1115px;
+  overflow: hidden;
+}
+.v2_272 {
+  width: 232px;
+  height: 345px;
+  background: url("fantasi\ \(4\).jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 760px;
+  left: 1133px;
+  overflow: hidden;
+}
+.v1_273 {
+  width: 268px;
+  height: 400px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 733px;
+  left: 35px;
+  overflow: hidden;
+}
+.v2_273 {
+  width: 232px;
+  height: 345px;
+  background: url("fantasi.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 760px;
+  left: 52px;
+  overflow: hidden;
+}
+.v1_274 {
+  width: 267px;
+  height: 400px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 256px;
+  left: 387px;
+  overflow: hidden;
+}
+.v2_274 {
+  width: 232px;
+  height: 346px;
+  background: url("Fantasi1.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 283px;
+  left: 407px;
+  overflow: hidden;
+}
+.v1_275 {
+  width: 267px;
+  height: 400px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 733px;
+  left: 389px;
+  overflow: hidden;
+}.v2_275 {
+  width: 232px;
+  height: 345px;
+  background: url("fantasi\ \(2\).jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 760px;
+  left: 407px;
+  overflow: hidden;
+}
+.v1_276 {
+  width: 268px;
+  height: 400px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 256px;
+  left: 35px;
+  overflow: hidden;
+}
+.v1_277 {
+  width: 233px;
+  height: 345px;
+  background: url("image\ 7.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 284px;
+  left: 52px;
+  overflow: hidden;
+}
+.v1_278 {
+  width: 100%;
+  height: 51px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 155px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_279 {
+  width: 100%;
+  height: 155px;
+  background: #D0B8A8;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_280 {
+  width: 86px;
+  height: 76px;
+  background: url("v1_7.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 39px;
+  left: 39px;
+  overflow: hidden;
+}
+.v1_281 {
+  width: 522px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 40px;
+  left: 150px;
+  font-family: Inter;
+  font-weight: Black;
+  font-size: 60px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_282 {
+  width: 164px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 169px;
+  left: 93px;
+  font-family: Inter;
+  font-weight: Black;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_283 {
+  width: 74px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 169px;
+  left: 582px;
+  font-family: Inter;
+  font-weight: Black;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_284 {
+  width: 81px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 169px;
+  left: 703px;
+  font-family: Inter;
+  font-weight: Black;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_285 {
+  width: 83px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 169px;
+  left: 838px;
+  font-family: Inter;
+  font-weight: Black;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_286 {
+  width: 105px;
+  color: rgba(234,255,0,1);
+  position: absolute;
+  top: 169px;
+  left: 971px;
+  font-family: Inter;
+  font-weight: Black;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_287 {
+  width: 70px;
+  height: 70px;
+  background: url("v1_56.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 33px;
+  left: 1250px;
+  overflow: hidden;
+}
+.v1_288 {
+  width: 135px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 169px;
+  left: 1108px;
+  font-family: Inter;
+  font-weight: Black;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_289 {
+  width: 105px;
+  color: rgba(234,255,0,1);
+  position: absolute;
+  top: 169px;
+  left: 971px;
+  font-family: Inter;
+  font-weight: Black;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_290 {
+  width: 135px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 169px;
+  left: 1265px;
+  font-family: Inter;
+  font-weight: Black;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_80 {
+  width: 522px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 40px;
+  left: 150px;
+  font-family: Inter;
+  font-weight: Black;
+  font-size: 60px;
+  opacity: 1;
+  text-align: left;
+}
+.kontol1 {
+  text-decoration: none;
+  color: black;
+}
+.horor {
+  color: white;
+  text-decoration: none;
+}
+span :hover {
+  color: rgba(234,255,0,1);
+}
